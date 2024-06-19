@@ -1,0 +1,40 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Twinkle",
+      "email": "twinkle@gmail.com",
+      "password": "123"
+    }
+  ],
+  "stucomplain": [
+    {
+      "id": 1,
+      "stuid": 11,
+      "complain": "internet not worrking",
+      "ans": "this is just test reply answer"
+    }
+  ],
+  "adminuser": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "twinkle",
+      "email": "twinkle@gmail.com",
+      "password": "111"
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "name": "twinkle",
+      "email": "twinkle@gmail.com",
+      "msg": "first msg"
+    }
+  ]
+}
